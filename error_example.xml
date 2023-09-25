@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PasswordManager>
+    <Item Type="Card">
+        <Name>Visa</Name>
+        <HolderName>John Smith</HolderName>
+        <Number>1729473816459604</Number>
+        <ExpirationDate>12/24</ExpirationDate>
+        <CVV>373</CVV>
+    </Item>
+    <Item Type="Login">
+        <Name>Firefox</Name>
+        <Username>user1</Username>
+        <Password>pass123</Password>
+        <Site>firefox.com</Site>
+    </Item>
+    <Item Type="Note">
+        <Name>Private Key OpenSSH</Name>
+        <Text>-----BEGIN OPENSSH PRIVATE KEY-----
+MIIEpAIBAAKCAQEA5VIA0AnLdV0MP9rtgIYQ+JvFZph/juJkwb+VxUPR3hTRI+Ig
+7w3Yqnc80vA56EtyzLR8bFizwQLvmopVhFJKgR8qFnfpz9Ng6KfdUck37K0jQ5W+
+qGmVz2p/5IJMxgUoYxkOnT1RUGdNyqUjVpjIzOn2Hnm+UgviFyMzi3W9Z45HAC8B
+nKR3vX9FZVjNZz14/+gO77p49YypwoGs0JbyecXnJL/uh24DTorVKgMMz5oKETW1
+ApEpL32RoX8fbWsLqSXavm+0oP2ptjDC0mW2Ss/Q9hq7iZ0Uh3D8i4kJEXfPZNSn
+e/AK+GzpkH4UEbZx3+IfpAwIw9hwV7e6tJgckwIDAQABAoIBABFdFiXos/YtCF7T
+kmVU9GveJt/RTBzIVMmYw1alVOGhTPI3NtVuivz//7kwCvum86s0zvw1y/0B0gtI
+ljAS+mzyVzz18TgibXOyF1lF2l9D0eqvwsQwWlCZC/1JbsvOD7Q1UoBc1IyURGdM
+qxFbNMuLnt2Sd3G9JZmKvRAz1IPlg8W/0WHT4j2ovxEGC3qtEpTF7P6glhBvVwIt
+DN1yfO0Xc1HsSzKQI5QEV+1X6AXAp3qKp0TJzj0DEI6Jpftt4e7QyUVqPPv2Uqon
+7+ONMKM/YBVRnj+7yupTl7SbUZUOw7Kl8uLf6U2B5Q09hugC/mnM8X4lF9K0ELew
+nnB0NUECgYEA+R5v0QI8YnFcAq3BNwdzauUv77r0jk5Kz6i0I8hzcyYCBmow84zN
+dJ+L7al2C0HMRsLwXqQDT5Uc1oQHEZWgH1pceMIooHH5+v1Cmrx+dcyJF7rp/Yus
+3ZS1Uhx4s3ShCBtHjyGLg2yj33XLm4+wdhx6EaCPWjN+1A5z3Mo1py0CgYEA8HnN
+a7mB7lH82HIEiXMpmefHqSoUeO8Ux4Zew//RK4STZmjHFBYLUE0o8S0R3CnCprOM
+zzpvuzwHRX6dFamFFz70wNd4FnwahV6iQJ5ocVswrE2zVzGagc33ELByaPqMTLpK
+EzwWmyJr8Vtp3/mRHD9EqJnqEBpttt+/rHdXO+cCgYB14VkceL3SbHlukCD9b8hZ
+UWAB3i9mLF7Mh41q8Uk1HGr3vc6X7EM/N3xq3UO0M6a3LmQzzmrVmqFGiBm50mVo
+UPtrkzbszLvPMFJz4hXEXu+1IhnR5YUyT8n3J3PJ5rVw8AF8P6K39jtvI9I44m0p
+1p4ab90bO87Vic9au1psSQKBgQCr1lPEUpq1sUQbHM5lT6ZRs9rLekUSo14NwSrh
+22F0/m07BSvgrPntTQ/Vp9x3IqBiaYwovuj0t0qsIlRkXtFnU0DXN9K4i9X71vV4
+e0C/8hYh7Ii08bnfZhnA4Z9LtyogInKZmltHrr2ia/sy1Ilq96vbmP0MV1w7oOrB
+5xUuNQKBgQCzwutQKslNfBR5W4Xb59TP/XoQ9yfZbdh+jr3/0xFjktW8b1fuj0x5
+fVnifPeGzWiJbPNIfDW59gOu9g8HcWJ2fWjV0BSXTLQGMOaX9wAf6YDprzCF6POt
+l0hfiZto5xJ/NNRY9GqYcWdyi7oZoL+uO28KcPNRSZBocm1G8dLbTQ==
+-----END OPENSSH PRIVATE KEY-----</Text>
+    </Item>
+    <Item Type="Login">
+        <Name>Facebook</Name>
+        <Username>user@email.com</Username>
+        <Password>pass123</Password>
+        <Site>facebook.com</Site>
+    </Item>
+</PasswordManager>
